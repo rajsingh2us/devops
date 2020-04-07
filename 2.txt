@@ -2,3 +2,4 @@ kjskjfksg
 sf[6~
 s[6~d
 fd
+i am adding or appending thru cat>>2.tx
